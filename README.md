@@ -5,7 +5,7 @@
 
 Όνομα Ομάδας
 
-Tech - eco kids
+Eco - tech kids
 
 Εκπαιδευτικό Σενάριο
 
